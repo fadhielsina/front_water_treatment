@@ -152,7 +152,7 @@
                                         </div>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="amarta_water_treatment">Amarta Water Treatment</a></h3>
+                                        <h3><a href="https://amartawater.com/amarta_water_treatment">Amarta Water Treatment</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Instalasi pipanisasi dan supplier filter air yang digunakan untuk skala industri, residential, rumah tangga, waste, dan komersial.</p>
@@ -175,7 +175,7 @@
                                         </div>
                                     </div>
                                     <div class="featured-title">
-                                        <h3><a href="amarta_pure_water">Amarta Pure Water</a></h3>
+                                        <h3><a href="https://amartawater.com/">Amarta Pure Water</a></h3>
                                     </div>
                                     <div class="featured-desc">
                                         <p>Gerai Air Minum Isi Ulang dan Produk Air Minum Dalam Kemasan</p>
