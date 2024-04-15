@@ -157,7 +157,7 @@
                                     <div class="featured-desc">
                                         <p>Instalasi pipanisasi dan supplier filter air yang digunakan untuk skala industri, residential, rumah tangga, waste, dan komersial.</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="amarta_water_treatment">view More<i class="fa fa-angle-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="https://amartawater.com/amarta_water_treatment">view More<i class="fa fa-angle-right"></i></a>
                                 </div>
                             </div><!-- featured-imagebox end-->
                         </div>
@@ -180,7 +180,7 @@
                                     <div class="featured-desc">
                                         <p>Gerai Air Minum Isi Ulang dan Produk Air Minum Dalam Kemasan</p>
                                     </div>
-                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="amarta_pure_water">view More<i class="fa fa-angle-right"></i></a>
+                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-dark" href="https://amartawater.com/">view More<i class="fa fa-angle-right"></i></a>
                                 </div>
                             </div><!-- featured-imagebox end-->
                         </div>
