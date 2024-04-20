@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\LandingController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,19 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('landing_page/index');
-});
-Route::get('/about-us', function () {
-    return view('landing_page/aboutus');
-});
-Route::get('/services', function () {
-    return view('landing_page/services');
-});
+Route::get('/', [LandingController::class, 'index'])->name('products.index');
+Route::get('/about-us', [LandingController::class, 'aboutus'])->name('products.aboutus');
+Route::get('/services', [LandingController::class, 'services'])->name('products.services');
+Route::get('/contact-us', [LandingController::class, 'contactus'])->name('products.contactus');
 Route::get('/blog', function () {
     abort(404);
     // return view('landing_page/blog');
-});
-Route::get('/contact-us', function () {
-    return view('landing_page/contactus');
 });
