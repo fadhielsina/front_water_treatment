@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LandingController;
+use App\Http\Controllers\WatertTreatmentController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,11 +15,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [LandingController::class, 'index'])->name('products.index');
-Route::get('/about-us', [LandingController::class, 'aboutus'])->name('products.aboutus');
-Route::get('/services', [LandingController::class, 'services'])->name('products.services');
-Route::get('/contact-us', [LandingController::class, 'contactus'])->name('products.contactus');
-Route::get('/blog', function () {
-    abort(404);
-    // return view('landing_page/blog');
-});
+Route::get('/', [WatertTreatmentController::class, 'index'])->name('water_treatment.index');
+Route::get('/about-us', [WatertTreatmentController::class, 'aboutus'])->name('water_treatment.aboutus');
+Route::get('/reverse-osmosis', [WatertTreatmentController::class, 'aboutus'])->name('water_treatment.reverse_ormosis');
+
+// Route::get('/', [LandingController::class, 'index'])->name('products.index');
+// Route::get('/about-us', [LandingController::class, 'aboutus'])->name('products.aboutus');
+// Route::get('/services', [LandingController::class, 'services'])->name('products.services');
+// Route::get('/contact-us', [LandingController::class, 'contactus'])->name('products.contactus');
