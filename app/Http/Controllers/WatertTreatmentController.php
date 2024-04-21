@@ -16,7 +16,7 @@ class WatertTreatmentController extends Controller
         return view('amarta_water_treatment/aboutus');
     }
 
-    public function reverse_ormosis()
+    public function reverse_osmosis()
     {
         return view('amarta_water_treatment/ro');
     }

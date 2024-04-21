@@ -50,18 +50,18 @@
                                     <nav id="mobile-menu">
                                         <ul>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}">Home</a>
+                                                <a href="/">Home</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}/about-us">About Us</a>
+                                                <a href="/about-us">About Us</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}/reverse-osmosis" style="color: blue;">Reverse Osmosis</a>
+                                                <a href="/reverse-osmosis" style="color: blue;">Reverse Osmosis</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}/blog">Blog</a>
+                                                <a href="/blog">Blog</a>
                                             </li>
-                                            <li><a href="https://jagattirtaamarta.com/contact-us">Contact</a></li>
+                                            <li><a href="/contact-us">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
