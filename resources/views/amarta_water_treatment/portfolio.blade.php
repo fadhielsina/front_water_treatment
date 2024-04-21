@@ -205,14 +205,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-xl-3">
-                        <div class="df-blog2__area-btn text-center mt-60 wow fadeInUp" data-wow-delay=".3s">
-                            <a href="#" class="load-btn">Load More<i class="fa-duotone fa-spinner"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </section>
         <!-- blog area end  -->
