@@ -59,7 +59,7 @@
                                                 <a href="/reverse-osmosis" style="color: blue;">Reverse Osmosis</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="/blog">Blog</a>
+                                                <a href="/portfolio">Portfolio</a>
                                             </li>
                                             <li><a href="/contact-us">Contact</a></li>
                                         </ul>
@@ -73,7 +73,7 @@
                                         </div>
                                         <div class="meta-item__text">
                                             <p>CONTACT NUMBER</p>
-                                            <span><a class="is-black" href="{{url('water_treatment')}}/tel:+866332-2020">+62 811 887 7225</a></span>
+                                            <span><a class="is-black" href="https://wa.me/08118877225">+62 811 887 7225</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -121,7 +121,7 @@
                             <i class="icon-007-telephone"></i>
                         </div>
                         <div class="meta-item__text-2">
-                            <span><a href="{{url('water_treatment')}}/tel:+866332-2020">+62 811 887 7225</a></span>
+                            <span><a href="https://wa.me/08118877225">+62 811 887 7225</a></span>
                         </div>
                     </div>
                     <div class="meta-item mb-20">

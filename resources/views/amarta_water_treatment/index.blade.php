@@ -68,7 +68,7 @@
                                                 <a href="/reverse-osmosis">Reverse Osmosis</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="{{url('amarta_water_treatment')}}/blog">Blog</a>
+                                                <a href="/portfolio">Portfolio</a>
                                             </li>
                                             <li><a href="/contact-us">Contact</a></li>
                                         </ul>
@@ -130,7 +130,7 @@
                             <i class="icon-007-telephone"></i>
                         </div>
                         <div class="meta-item__text-2">
-                            <span><a href="{{url('water_treatment')}}/tel:+866332-2020">+62 811 887 7225</a></span>
+                            <span><a href="https://wa.me/08118877225">+62 811 887 7225</a></span>
                         </div>
                     </div>
                     <div class="meta-item mb-20">
@@ -189,6 +189,8 @@
                     <div class="col-xl-8">
                         <div class="section__title-wrapper text-center">
                             <h2 class="section__title">Hampir 70% Sumber Air Minum di Indonesia Sudah Tercemar</h2>
+                            <br>
+                            <p>Bumi terbentuk 4,5 miliar tahun,berasal dari bahan batu yang berasal dari Air. Dengan demikian, bisa dikatakan Air sudah lebih dahulu ada di kehidupan alam semesta.</p>
                         </div>
                     </div>
                 </div>
@@ -297,7 +299,7 @@
                                     <img src="water_treatment/assets/img/service/commercial.jpg" alt="image not found">
                                 </div>
                                 <h4 class="service__title"><a href="service-details.html">Comercial Water Treatment</a></h4>
-                                <p class="service__text">Penyedia produk dan layanan skala komersil seperti kawasan terpadu, apartment, rumah sakit, hotel, restoran, cafe (Horeca), dan depot air minum isi ulang untuk mengolah air dengan volume air yang besar dengan laju aliran yang tinggi.</p>
+                                <p class="service__text">Penyedia produk dan layanan skala komersil seperti Kawasan Terpadu, Perkantoran, Rumah Sakit, Real Estste, Apartement, Hotel , Cottage, Horeca, AMDK, Depo isi ulang untuk mengolah air dengan volume air yang besar dengan laju aliran yang tinggi.</p>
                             </div>
                         </div>
                     </div>

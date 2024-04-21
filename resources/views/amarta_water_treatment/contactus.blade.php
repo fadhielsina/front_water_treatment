@@ -53,7 +53,7 @@
                                                 <a href="/">Home</a>
                                             </li>
                                             <li class="menu-item-has-children">
-                                                <a href="/about-us" style="color: blue;">About Us</a>
+                                                <a href="/about-us">About Us</a>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="/reverse-osmosis">Reverse Osmosis</a>
@@ -61,7 +61,7 @@
                                             <li class="menu-item-has-children">
                                                 <a href="/portfolio">Portfolio</a>
                                             </li>
-                                            <li><a href="/contact-us">Contact</a></li>
+                                            <li><a href="/contact-us" style="color: blue;">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -153,113 +153,46 @@
 
         <div class="adjust-header-space bg-common-white"></div>
 
-        <!-- breadcrumb area start  -->
-        <section class="page-title__area valign page-title-full z-index-5 p-relative bg-theme-1">
-            <div class="page-title__thumb" data-background="assets/img/breadcrumb/page.webp"></div>
+        <!-- contact area start  -->
+        <section class="df-contact__area section-spacing-top p-relative fix">
+            <div class="circle-2"></div>
+            <div class="circle-3"></div>
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-7 col-lg-7">
-                        <div class="page-title__wrapper">
-                            <div class="page-title__content">
-                                <h4 class="text-white">PT. Jagat Tirta Amarta memiliki unit dengan nama Amarta Water Treatment yang merupakan unit layanan jasa instalasi yang berfokus pada penyediaan peralatan dan layanan pengolahan air dari air yang tidak layak untuk dikonsumsi menjadi air layak konsumsi menggunakan sistem reverse osmosis.</h4>
-                            </div>
+                <div class="row justify-content-center section-title-spacing wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col-xl-8">
+                        <div class="section__title-wrapper text-center">
+                            <span class="section__subtitle bg-lighter">Contact Us</span>
+                            <h2 class="section__title">Contact with Us</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row g-5">
+                    <div class="col-xxl-4 col-lg-6 col-md-6">
+                        <div class="df-contact__box wow fadeInUp" data-wow-delay=".4s">
+                            <div class="df-contact__icon mb-20"><i class="icon-051-telephone-1"></i></div>
+                            <p class="df-contact__title mb-5">PHONE NUMBER</p>
+                            <h4 class="df-contact__content"><a href="https://wa.me/08118877225">+62 811 887 7225</a></h4>
+                        </div>
+                    </div>
+                    <div class="col-xxl-4 col-lg-6 col-md-6">
+                        <div class="df-contact__box wow fadeInUp" data-wow-delay=".5s">
+                            <div class="df-contact__icon mb-20"><i class="icon-052-email"></i></div>
+                            <p class="df-contact__title mb-5">EMAIL ADDRESS</p>
+                            <h4 class="df-contact__content"><a href=""><span class="__cf_email__" data-cfemail="70030500001f020430141f1619085e131f1d">info@jagattirtaamarta.com</span></a>
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="col-xxl-4 col-lg-6 col-md-6">
+                        <div class="df-contact__box wow fadeInUp" data-wow-delay=".6s">
+                            <div class="df-contact__icon mb-20"><i class="icon-030-pin"></i></div>
+                            <p class="df-contact__title mb-5">OUR LOCATION</p>
+                            <h4 class="df-contact__content"><a href="#">Jl. Bujanggamanik Kav. No.60 Ruko Pancawarna / Samping IKEA,Kota Baru Parahyangan – Kertajaya, Kec. Padalarang Kabupaten Bandung Barat, Jawa Barat 40553</a></h4>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- breadcrumb area end  -->
-
-        <!-- about area start  -->
-        <section class="df-about4__area section-spacing">
-            <div class="container">
-                <div class="row g-5 gy-50 align-items-center wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-lg-4 order-lg-0 order-1">
-                        <p>System Pengolahan Air Baku Menjadi Air Murni ( Drinking Water ).
-                            Air Limbah Menjadi Air bersih.
-                            Amarta Water Treatment Mendukung Program optimaliasi Pemerintah Dalam Rangka Air bersih dan Sanitasi. Yang bermanfaat bagi masyarakat umumnya.
-                            Dengan Meningkatnya tingkat polusi sanitasi, Kualitas mutu air minum dunia terus menurun,serta sumber mata air yang semakin kian tercemar.</p>
-                    </div>
-                    <div class="col-lg-4 order-lg-0 order-1">
-                        <p>Amarta Water Treatment mendukung para pemangku kepentingan dan masyarakat umumnya untuk pengecekan laboratorium kualitas mutu Air Murni skala Nasional & Internasional.
-                            WHO mengatakan semakin rendah nilai Total dissolved solid Maka menandakan Air semakin murni dan bebas dari kandungan zat - zat yang tidak di perlukan tubuh.</p>
-                    </div>
-                    <div class="col-lg-4 order-lg-0 order-1">
-                        <p>Wajib Memilih system SWRO, BWRO, STP, WWTP, WTP, IPAL dari Perusahaan Terpercaya. untuk mendapatkan Hasil terbaik, Sesuai dengan kwalitas Mutu melalui proses yang tepat efektif dan perawatan peralatan yang mudah.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- about area end  -->
-
-        <!-- about area start  -->
-        <section class="df-about4__area section-spacing">
-            <div class="container">
-                <div class="row g-5 gy-50 align-items-center wow fadeInUp" data-wow-delay=".3s">
-                    <div class="col-lg-6 order-lg-0 order-1">
-                        <div class="df-about4__content">
-                            <div class="section__title-wrapper">
-                                <h2 class="section__title">Service</h2>
-                            </div>
-                            <p class="mt-35 mb-35">Komitmen Terhadap Kualitas dan Pelayanan.</p>
-                            <div class="df-about4__feature-list mb-45">
-                                <ul>
-                                    <li>
-                                        <span class="list-icon">
-                                            <i class="icon-058-check"></i>
-                                        </span>
-                                        <p>Menggunakan komponen teknologi system digitalisasi water treatment, dengan kwalitas mutu terbaik.</p>
-                                    </li>
-                                    <li>
-                                        <span class="list-icon">
-                                            <i class="icon-058-check"></i>
-                                        </span>
-                                        <p>Bekerja sama dengan produsen alat water treatment dari negara USA, Jerman, Taiwan, Japan.</p>
-                                    </li>
-                                    <li>
-                                        <span class="list-icon">
-                                            <i class="icon-058-check"></i>
-                                        </span>
-                                        <p>Memiliki Tenaga Ahli berpengalaman dalam bidang water treatment dan Science 7 tahun.</p>
-                                    </li>
-                                    <li>
-                                        <span class="list-icon">
-                                            <i class="icon-058-check"></i>
-                                        </span>
-                                        <p>Penyedia produk dan layanan di bidang pengolahan air dengan bahan berkualitas tinggi.</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 order-lg-1 order-0">
-                        <div class="df-about4__content">
-                            <div class="section__title-wrapper">
-                                <h2 class="section__title">Hubungi Kami</h2>
-                            </div>
-                            <p class="mt-35 mb-35">Kami siap membantu anda</p>
-                            <div class="df-about4__feature-list mb-45">
-                                <ul>
-                                    <li>
-                                        <span class="list-icon">
-                                            <i class="icon-058-check"></i>
-                                        </span>
-                                        <p>Perusahaan yang terbuka dan mudah untuk diakses.</p>
-                                    </li>
-                                    <li>
-                                        <span class="list-icon">
-                                            <i class="icon-058-check"></i>
-                                        </span>
-                                        <p>Buat reservasi untuk alur kerja diskusi terbuka, diskusi data, usulan teknis, presentasi proyek, eksekusi proyek, dan penyelesaian proyek.</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- about area end  -->
+        <!-- contact area end  -->
 
     </main>
 

@@ -18,6 +18,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [WatertTreatmentController::class, 'index'])->name('water_treatment.index');
 Route::get('/about-us', [WatertTreatmentController::class, 'aboutus'])->name('water_treatment.aboutus');
 Route::get('/reverse-osmosis', [WatertTreatmentController::class, 'reverse_osmosis'])->name('water_treatment.reverse_ormosis');
+Route::get('/portfolio', [WatertTreatmentController::class, 'portfolio'])->name('water_treatment.portfolio');
+Route::get('/contact-us', [WatertTreatmentController::class, 'contactus'])->name('water_treatment.contactus');
 
 // Route::get('/', [LandingController::class, 'index'])->name('products.index');
 // Route::get('/about-us', [LandingController::class, 'aboutus'])->name('products.aboutus');
