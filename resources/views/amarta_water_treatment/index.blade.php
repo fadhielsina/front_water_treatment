@@ -239,10 +239,10 @@
                     <div class="col-lg-6">
                         <div class="df-about__content ">
                             <div class="section__title-wrapper">
-                                <h2 class="section__title">Reverse Osmosis</h2>
+                                <h2 class="section__title">Proses Pengolahan Air</h2>
                             </div>
-                            <p class="mt-35 mb-35">Reverse Osmosis (Osmosis Terbalik) atau RO adalah suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari suatu larutan dengan cara memberi tekanan pada larutan ketika larutan itu berada di salah satu sisi membran seleksi (lapisan penyaring).</p>
-                            <p>Reverse osmosis merupakan suatu proses pemaksaan sebuah pelarut dari daerah konsentrasi tinggi ke daerah pelarut rendah dengan menggunakan sebuah tekanan melebihi tekanan osmotik.</p>
+                            <p class="mt-35 mb-35">Proses pengolahan air merupakan proses peningkatan kualitas air yang dilakukan dengan tujuan untuk memusnahkan kontaminasi zat dan partikel entah itu kontaminasi secara fisika, kimia, dan mikrobiologis yang dapat memengaruhi kesehatan masyarakat yang mengkonsumsi air yang tercemar.</p>
+                            <p>Pengolahan air biasa digunakan di skala rumah tangga, kawasan terpadu, perkantoran, rumah sakit, real estate, apartemen, hingga industri-industri yang bergerak di bidang pangan, sandang, dan papan.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -276,8 +276,8 @@
                                 <div class="service__img">
                                     <img src="water_treatment/assets/img/service/redential.jpg" alt="image not found">
                                 </div>
-                                <h4 class="service__title"><a href="service-details.html">Residential Water Treatment</a></h4>
-                                <p class="service__text">Penyedia produk dan layanan skala rumah tangga untuk proses pengolahan air dari air baku menjadi air layak minum.</p>
+                                <h4 class="service__title"><a href="#">Filter Air Rumah Tangga (Residential)</a></h4>
+                                <p class="service__text">PT. JAGAT TIRTA AMARTA salah satu Perusahaan Supplier Filter Air menghadirkan Filter air yang digunakan untuk penyaring atau penjernih air di skala rumah tangga.</p>
                             </div>
                         </div>
                     </div>
@@ -287,8 +287,8 @@
                                 <div class="service__img">
                                     <img src="water_treatment/assets/img/service/air_limbah.jpg" alt="image not found">
                                 </div>
-                                <h4 class="service__title"><a href="service-details.html">Instalasi Pengolahan Air Limbah</a></h4>
-                                <p class="service__text">Teknologi, peralatan, dan perlengkapan yang dirancang secara khusus untuk proses pengolahan air limbah atau cairan sisa proses tersebut menjadi layak untuk dibuang ke lingkungan.</p>
+                                <h4 class="service__title"><a href="#">Instalasi Pengolahan Limbah</a></h4>
+                                <p class="service__text">Dengan teknologi peralatan beserta perlengkapannya yang dirancang secara khusus untuk memproses atau mengolah cairan sisa proses, sehingga sisa proses tersebut menjadi layak dibuang ke lingkungan.</p>
                             </div>
                         </div>
                     </div>
@@ -298,8 +298,8 @@
                                 <div class="service__img">
                                     <img src="water_treatment/assets/img/service/commercial.jpg" alt="image not found">
                                 </div>
-                                <h4 class="service__title"><a href="service-details.html">Comercial Water Treatment</a></h4>
-                                <p class="service__text">Penyedia produk dan layanan skala komersil seperti Kawasan Terpadu, Perkantoran, Rumah Sakit, Real Estste, Apartement, Hotel , Cottage, Horeca, AMDK, Depo isi ulang untuk mengolah air dengan volume air yang besar dengan laju aliran yang tinggi.</p>
+                                <h4 class="service__title"><a href="#">Filter Air Komersial</a></h4>
+                                <p class="service__text">Peralatan pemurnian air komersial yg digunakan untuk mengolah volume air yg besar dengan laju aliran tinggi untuk industri Hotel, Restoran dan Cafe (HORECA) maupun depot air minum isi ulang.</p>
                             </div>
                         </div>
                     </div>
@@ -309,8 +309,8 @@
                                 <div class="service__img">
                                     <img src="water_treatment/assets/img/service/industrial.jpg" alt="image not found">
                                 </div>
-                                <h4 class="service__title"><a href="service-details.html">Industrial Water Treatment</a></h4>
-                                <p class="service__text">Penyedia produk dan layanan skala industri mulai dari industri yang bergerak di bidang pangan, sandang, dan papan untuk mempertahankan kualitas dan keberlanjutan penggunaan air dalam proses industri.</p>
+                                <h4 class="service__title"><a href="#">Filter Air Industri</a></h4>
+                                <p class="service__text">Penyedia produk dan layanan skala industri mulai dari industri yang bergerak di bidang pangan, sandang, dan papan untuk mempertahankan kualitas dan keberlanjutan penggunaan air dalam proses pengolahan di industri.</p>
                             </div>
                         </div>
                     </div>
