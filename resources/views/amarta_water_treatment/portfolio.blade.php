@@ -171,35 +171,56 @@
                         <div class="col-lg-6 grid-item">
                             <div class="df-portfolio2__item-box">
                                 <div class="df-portfolio2__item-thumb">
-                                    <a href="portfolio-details.html"><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/1.jpeg" alt="img not found"></a>
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/1.jpeg" alt="img not found"></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 grid-item">
                             <div class="df-portfolio2__item-box">
                                 <div class="df-portfolio2__item-thumb">
-                                    <a href="portfolio-details.html"><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/2.jpeg" alt="image not found"></a>
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/2.jpeg" alt="image not found"></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 grid-item">
                             <div class="df-portfolio2__item-box">
                                 <div class="df-portfolio2__item-thumb">
-                                    <a href="portfolio-details.html"><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/3.jpeg" alt="image not found"></a>
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/3.jpeg" alt="image not found"></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 grid-item">
                             <div class="df-portfolio2__item-box">
                                 <div class="df-portfolio2__item-thumb">
-                                    <a href="portfolio-details.html"><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/4.jpeg" alt="image not found"></a>
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/4.jpeg" alt="image not found"></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6 grid-item">
                             <div class="df-portfolio2__item-box">
                                 <div class="df-portfolio2__item-thumb">
-                                    <a href="portfolio-details.html"><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/5.jpeg" alt="image not found"></a>
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/5.jpeg" alt="image not found"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 grid-item">
+                            <div class="df-portfolio2__item-box">
+                                <div class="df-portfolio2__item-thumb">
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/6.jpeg" alt="image not found"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 grid-item">
+                            <div class="df-portfolio2__item-box">
+                                <div class="df-portfolio2__item-thumb">
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/7.jpeg" alt="image not found"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 grid-item">
+                            <div class="df-portfolio2__item-box">
+                                <div class="df-portfolio2__item-thumb">
+                                    <a href=""><img src="{{ url('water_treatment') }}/assets/img/portfolio/angkatan_laut/8.jpeg" alt="image not found"></a>
                                 </div>
                             </div>
                         </div>
