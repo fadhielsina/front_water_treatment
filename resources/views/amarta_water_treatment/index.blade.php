@@ -232,17 +232,34 @@
         </div>
         <!-- services area end  -->
 
+        <!-- services area start  -->
+        <div class="services__area section-spacing bg-theme-4">
+            <div class="container">
+                <div class="row justify-content-center section-title-spacing mb-40 wow fadeInUp" data-wow-delay=".3s">
+                    <div class="col">
+                        <div class="section__title-wrapper text-center">
+                            <h2 class="section__title">Proses Pengolahan Air</h2>
+                            <br>
+                            <p>Proses pengolahan air merupakan proses peningkatan kualitas air yang dilakukan dengan tujuan untuk memusnahkan kontaminasi zat dan partikel entah itu kontaminasi secara fisika, kimia, dan mikrobiologis yang dapat memengaruhi kesehatan masyarakat yang mengkonsumsi air yang tercemar.</p>
+                            <p>Pengolahan air biasa digunakan di skala rumah tangga, kawasan terpadu, perkantoran, rumah sakit, real estate, apartemen, hingga industri-industri yang bergerak di bidang pangan, sandang, dan papan.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- services area end  -->
+
         <!-- about area start  -->
-        <section class="df-about__area section-spacing bg-theme-4">
+        <section class="df-about__area section-spacing">
             <div class="container">
                 <div class="row g-5 gy-50 align-items-center wow fadeInUp" data-wow-delay=".3s">
                     <div class="col-lg-6">
                         <div class="df-about__content ">
                             <div class="section__title-wrapper">
-                                <h2 class="section__title">Proses Pengolahan Air</h2>
+                                <h2 class="section__title">Reverse Osmosis</h2>
                             </div>
-                            <p class="mt-35 mb-35">Proses pengolahan air merupakan proses peningkatan kualitas air yang dilakukan dengan tujuan untuk memusnahkan kontaminasi zat dan partikel entah itu kontaminasi secara fisika, kimia, dan mikrobiologis yang dapat memengaruhi kesehatan masyarakat yang mengkonsumsi air yang tercemar.</p>
-                            <p>Pengolahan air biasa digunakan di skala rumah tangga, kawasan terpadu, perkantoran, rumah sakit, real estate, apartemen, hingga industri-industri yang bergerak di bidang pangan, sandang, dan papan.</p>
+                            <p class="mt-35 mb-35">Reverse Osmosis atau RO adalah suatu metode penyaringan yang dapat menyaring berbagai molekul besar dan ion-ion dari suatu larutan dengan cara memberi tekanan pada larutan ketika larutan itu berada di salah satu sisi membran seleksi (lapisan penyaring).</p>
+                            <p>Reverse osmosis merupakan suatu proses pemaksaan sebuah pelarut dari daerah konsentrasi tinggi ke daerah pelarut rendah dengan menggunakan sebuah tekanan melebihi tekanan osmotik.</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -256,7 +273,7 @@
         <!-- about area end  -->
 
         <!-- services area start  -->
-        <section class="df-services__area section-spacing p-relative x-clip">
+        <section class="df-services__area section-spacing p-relative x-clip bg-theme-4">
             <div class="area-shapes">
                 <div class="df-inner-area__shape1"></div>
                 <div class="df-inner-area__shape2"></div>
