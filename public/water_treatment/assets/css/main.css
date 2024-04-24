@@ -4799,7 +4799,7 @@ body {
 }
 .main-menu ul li a {
   font-size: 18px;
-  color: var(--clr-common-body-text);
+  color: #8C9DAE;
   text-transform: capitalize;
   display: inline-block;
   padding: 40px 0;
