@@ -10,8 +10,7 @@
         <div class="row align-items-end section-title-spacing wow fadeInUp" data-wow-delay=".3s">
             <div class="col-lg-12">
                 <div class="section__title-wrapper text-center">
-                    <span class="section__subtitle bg-lighter">OUR PORTFOLIO</span>
-                    <h2 class="section__title">Explore Our Portfolio</h2>
+                    <h2 class="section__title">Explore Our Portofolio</h2>
                 </div>
             </div>
         </div>
