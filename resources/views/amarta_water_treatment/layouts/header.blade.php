@@ -33,7 +33,10 @@
                                             <a href="/reverse-osmosis" id="{{ request()->is('reverse-osmosis') ? 'active' : '' }}">Reverse Osmosis</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="/portfolio" id="{{ request()->is('portfolio') ? 'active' : '' }}">Portfolio</a>
+                                            <a href="/portfolio" id="{{ request()->is('portfolio') ? 'active' : '' }}">Portofolio</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="/blog" id="{{ request()->is('blog') ? 'active' : '' }}">Blog</a>
                                         </li>
                                         <li><a href="/contact-us" id="{{ request()->is('contact-us') ? 'active' : '' }}">Contact</a></li>
                                     </ul>
