@@ -26,6 +26,11 @@ class WatertTreatmentController extends Controller
         return view('amarta_water_treatment/portfolio');
     }
 
+    public function blog()
+    {
+        return view('amarta_water_treatment/blog');
+    }
+
     public function contactus()
     {
         return view('amarta_water_treatment/contactus');
