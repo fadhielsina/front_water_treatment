@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Blog;
 use Illuminate\Http\Request;
 
 class WatertTreatmentController extends Controller
@@ -28,7 +29,8 @@ class WatertTreatmentController extends Controller
 
     public function blog()
     {
-        return view('amarta_water_treatment/blog');
+        $data = Blog::get();
+        return view('amarta_water_treatment/blog', compact("data"));
     }
 
     public function contactus()
