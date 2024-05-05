@@ -10,7 +10,7 @@
             <div class="col-xl-7 col-lg-7">
                 <div class="page-title__wrapper">
                     <div class="page-title__content">
-                        <h4 class="text-white">PT. Jagat Tirta Amarta memiliki unit dengan nama Amarta Water Treatment yang merupakan unit layanan jasa instalasi yang berfokus pada penyediaan peralatan dan layanan pengolahan air dari yang tidak bersih menjadi bersih dan layak minum menggunakan sistem reverse osmosis.</h4>
+                        <h4 class="text-white">PT. JAGAT TIRTA AMARTA memiliki unit usaha water treatement,layanan jasa instalasi,penyediaan pelaralatan.</h4>
                     </div>
                 </div>
             </div>
