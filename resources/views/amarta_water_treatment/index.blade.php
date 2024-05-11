@@ -188,7 +188,7 @@
                         <div class="df-testimonial__box">
                             <div class="df-testimonial__box-content">
                                 <div class="df-testimonial__text">
-                                    <p>" Terhormat Kami bertindak hati-hati guna <br> me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi "</p>
+                                    <p>" Menjaga air sama dengan menjaga kehidupan "</p>
                                 </div>
                                 <div class="df-testimonial__author-meta d-flex justify-content-center">
                                     <div class="df-testimonial__author-review">
