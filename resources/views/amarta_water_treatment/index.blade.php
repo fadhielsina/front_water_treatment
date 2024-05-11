@@ -222,11 +222,6 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/accor.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/komando_armada.png" alt="image">
                         </div>
                     </div>
@@ -235,30 +230,10 @@
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/itb.png" alt="image">
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_siloam.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/nalaprana.png" alt="image">
-                        </div>
-                    </div>
                 </div>
             </div>
             <div class="swiper brand__slider" style="margin-bottom: 20px;">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/k3mart.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/pullman.png" alt="image">
-                        </div>
-                    </div>
                     <div class="swiper-slide">
                         <div class="brand__item">
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/iatpi.png" alt="image">
@@ -267,30 +242,6 @@
                     <div class="swiper-slide">
                         <div class="brand__item">
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_indramayu.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/hermina.png" alt="image">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper brand__slider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_adjidarmo.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/porlakjahe.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="brand__item">
-                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/gubah_reka.png" alt="image">
                         </div>
                     </div>
                 </div>
