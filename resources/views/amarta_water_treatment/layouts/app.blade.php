@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#13c5dd" />
+    <meta name="theme-color" content="#8C9DAE" />
     <meta property="og:title" content="Amarta Water Treatment">
     <meta property="og:description" content="Merupakan perusahaan yang bergerak di bidang pengolahan air.">
     <meta property="og:image:width" content="300">
