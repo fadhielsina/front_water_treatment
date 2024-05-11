@@ -82,8 +82,7 @@
                     <br>
                     <p>Proses pengolahan air merupakan proses peningkatan kualitas air yang dilakukan dengan tujuan untuk memusnahkan kontaminasi zat dan partikel entah itu kontaminasi secara fisika, kimia, dan mikrobiologis yang dapat memengaruhi kesehatan masyarakat yang mengkonsumsi air yang tercemar.</p>
                     <p>Pengolahan air biasa digunakan di skala rumah tangga, kawasan terpadu, perkantoran, rumah sakit, real estate, apartemen, hingga industri-industri yang bergerak di bidang pangan, sandang, dan papan.</p>
-                    <br>
-                    <p>Wajib Memilih system SWRO, BWRO, STP, WWTP, WTP, IPAL dari Perusahaan Terpercaya. untuk mendapatkan Hasil terbaik, Sesuai dengan kwalitas Mutu melalui proses yang tepat efektif dan perawatan peralatan yang mudah.</p>
+                    <p>Kami menyediakan jasa instalasi pengolahan air <i>Sea Water Reverse Osmosis</i> (SWRO), <i>Brackish Water Reverse Osmosis</i> (BWRO), <i>Sewage Treatment Plant</i> (STP), <i>Waste Water Treatment Plant</i> (WWTP), dan sebagainya dengan kualitas proses yang efektif dan perawatan yang mudah.</p>
                 </div>
             </div>
         </div>
@@ -238,6 +237,16 @@
                     <div class="swiper-slide">
                         <div class="brand__item">
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_indramayu.png" alt="image">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="brand__item">
+                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_adjidarmo.png" alt="image">
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="brand__item">
+                            <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/rs_siloam.png" alt="image">
                         </div>
                     </div>
                 </div>
