@@ -192,8 +192,8 @@
                                 </div>
                                 <div class="df-testimonial__author-meta d-flex justify-content-center">
                                     <div class="df-testimonial__author-review">
-                                        <h4 class="df-testimonial__author">Erfan Ramadhan</h4>
-                                        <p>Co-Founder/CEO</p>
+                                        <h4 class="df-testimonial__author">Erfan Ramadhan, S.T.</h4>
+                                        <p>Co - Founder / CEO</p>
                                     </div>
                                 </div>
 
