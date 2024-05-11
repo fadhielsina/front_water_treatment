@@ -135,7 +135,7 @@
                             <img src="water_treatment/assets/img/service/redential.jpg" alt="image not found">
                         </div>
                         <h4 class="service__title"><a href="#">Filter Air Rumah Tangga (Residential)</a></h4>
-                        <p class="service__text">PT. JAGAT TIRTA AMARTA salah satu Perusahaan Supplier Filter Air menghadirkan Filter air yang digunakan untuk penyaring atau penjernih air di skala rumah tangga.</p>
+                        <p class="service__text">PT. Jagat Tirta Amarta salah satu Perusahaan Supplier Filter Air menghadirkan Filter air yang digunakan untuk penyaring atau penjernih air di skala rumah tangga.</p>
                     </div>
                 </div>
             </div>
