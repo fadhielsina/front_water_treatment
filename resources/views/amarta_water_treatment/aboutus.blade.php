@@ -10,7 +10,7 @@
             <div class="col-xl-7 col-lg-7">
                 <div class="page-title__wrapper">
                     <div class="page-title__content">
-                        <h4 class="text-white">PT. JAGAT TIRTA AMARTA memiliki unit usaha water treatement,layanan jasa instalasi,penyediaan pelaralatan.</h4>
+                        <h4 class="text-white">PT. Jagat Tirta Amarta memiliki unit usaha water treatement,layanan jasa instalasi,penyediaan pelaralatan.</h4>
                     </div>
                 </div>
             </div>
@@ -23,18 +23,12 @@
 <section class="df-about4__area section-spacing">
     <div class="container">
         <div class="row g-5 gy-50 align-items-center wow fadeInUp" data-wow-delay=".3s">
-            <div class="col-lg-4 order-lg-0 order-1">
-                <p>System Pengolahan Air Baku Menjadi Air Murni ( Drinking Water ).
-                    Air Limbah Menjadi Air bersih.
-                    Amarta Water Treatment Mendukung Program optimaliasi Pemerintah Dalam Rangka Air bersih dan Sanitasi. Yang bermanfaat bagi masyarakat umumnya.
-                    Dengan Meningkatnya tingkat polusi sanitasi, Kualitas mutu air minum dunia terus menurun,serta sumber mata air yang semakin kian tercemar.</p>
+            <div class="col-lg-6 order-lg-0 order-1">
+                <p>Sistem pengolahan air baku menjadi air layak konsumsi dan air limbah menjadi air yang layak dibuang ke lingkungan. Amarta Water Treatment mendukung program pemerintah dalam optimalisasi air bersih dan sanitasi yang bermanfaat bagi masyarakat berdasarkan peningkatan persentase tercemarnya sumber air di Indonesia yang semakin tercemar.</p>
             </div>
-            <div class="col-lg-4 order-lg-0 order-1">
+            <div class="col-lg-6 order-lg-0 order-1">
                 <p>Amarta Water Treatment mendukung para pemangku kepentingan dan masyarakat umumnya untuk pengecekan laboratorium kualitas mutu Air Murni skala Nasional & Internasional.
                     WHO mengatakan semakin rendah nilai Total dissolved solid Maka menandakan Air semakin murni dan bebas dari kandungan zat - zat yang tidak di perlukan tubuh.</p>
-            </div>
-            <div class="col-lg-4 order-lg-0 order-1">
-                <p>Wajib Memilih system SWRO, BWRO, STP, WWTP, WTP, IPAL dari Perusahaan Terpercaya. untuk mendapatkan Hasil terbaik, Sesuai dengan kwalitas Mutu melalui proses yang tepat efektif dan perawatan peralatan yang mudah.</p>
             </div>
         </div>
     </div>

@@ -30,6 +30,7 @@
                 <div class="section__title-wrapper text-center">
                     <h2 class="section__title">Hampir 70% Sumber Air Minum di Indonesia Sudah Tercemar</h2>
                     <br>
+                    <p>Air kotor mengancam pertumbuhan kita. Sering pemakaian air yang tidak bersih berbahaya untuk jangka panjang.</p>
                     <p>Bumi terbentuk 4,5 miliar tahun,berasal dari bahan batu yang berasal dari Air. Dengan demikian, bisa dikatakan Air sudah lebih dahulu ada di kehidupan alam semesta.</p>
                 </div>
             </div>
