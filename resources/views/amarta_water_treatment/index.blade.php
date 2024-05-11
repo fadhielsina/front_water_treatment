@@ -191,12 +191,9 @@
                                     <p>" Terhormat Kami bertindak hati-hati guna <br> me-mindset system perusahaan menyongsong kesuksesan para pemangku,pelanggan dan mempertahankan standar Profesionalisme moralitas tertinggi "</p>
                                 </div>
                                 <div class="df-testimonial__author-meta d-flex justify-content-center">
-                                    <div class="df-testimonial__author-thumb">
-                                        <img class="img-fluid" src="landing_page/images/team-member/daniel.png" alt="image">
-                                    </div>
                                     <div class="df-testimonial__author-review">
-                                        <h4 class="df-testimonial__author">Daniel Sunarto</h4>
-                                        <p>Co-Founder</p>
+                                        <h4 class="df-testimonial__author">Erfan Ramadhan</h4>
+                                        <p>Co-Founder/CEO</p>
                                     </div>
                                 </div>
 
