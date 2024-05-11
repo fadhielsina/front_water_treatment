@@ -230,10 +230,6 @@
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/itb.png" alt="image">
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="swiper brand__slider" style="margin-bottom: 20px;">
-                <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="brand__item">
                             <img class="img-fluid" src="{{url('water_treatment')}}/assets/img/client/iatpi.png" alt="image">
