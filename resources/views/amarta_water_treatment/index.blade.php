@@ -38,32 +38,32 @@
         <div class="row g-5 gy-50 row-cols-xl-4 row-cols-lg-3 row-cols-sm-2 row-cols-1">
             <div class="col">
                 <div class="counter__box">
-                    <div class="counter__number-box">
-                        <img src="{{url('water_treatment')}}/assets/img/background/kotoran_sumur.webp" style="border-radius: 15%;" alt="">
+                    <div class="counter__number-box" style="margin-bottom: 0px;">
+                        <img src="{{url('water_treatment')}}/assets/img/background/kotoran_air_sumur.webp" style="border-radius: 15%;" alt="">
                     </div>
-                    <h3 class="counter__title">Kotoran Sumur Air</h3>
+                    <h3 class="counter__title">Kotoran Air Sumur</h3>
                 </div>
             </div>
             <div class="col">
                 <div class="counter__box">
-                    <div class="counter__number-box">
-                        <img src="{{url('water_treatment')}}/assets/img/background/kotoran_limbah.jpg" style="border-radius: 15%;" alt="">
+                    <div class="counter__number-box" style="margin-bottom: 0px;">
+                        <img src="{{url('water_treatment')}}/assets/img/background/kotoran_limbah.webp" style="border-radius: 15%;" alt="">
                     </div>
                     <h3 class="counter__title">Air dan Kotoran Limbah</h3>
                 </div>
             </div>
             <div class="col">
                 <div class="counter__box">
-                    <div class="counter__number-box">
-                        <img src="{{url('water_treatment')}}/assets/img/background/kaporit.jpg" style="border-radius: 15%;" alt="">
+                    <div class="counter__number-box" style="margin-bottom: 0px;">
+                        <img src="{{url('water_treatment')}}/assets/img/background/kaporit_klorin.webp" style="border-radius: 15%;" alt="">
                     </div>
                     <h3 class="counter__title">Kaporit dan Klorin</h3>
                 </div>
             </div>
             <div class="col">
                 <div class="counter__box">
-                    <div class="counter__number-box">
-                        <img src="{{url('water_treatment')}}/assets/img/background/polusi_pipa.jpeg" style="border-radius: 15%;" alt="">
+                    <div class="counter__number-box" style="margin-bottom: 0px;">
+                        <img src="{{url('water_treatment')}}/assets/img/background/polusi_pipa.webp" style="border-radius: 15%;" alt="">
                     </div>
                     <h3 class="counter__title">Polusi Pipa dan PDAM</h3>
                 </div>
